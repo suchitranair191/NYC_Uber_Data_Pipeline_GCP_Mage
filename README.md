@@ -30,5 +30,13 @@ The dataset was then modelled by identifying and separating the required fact ta
 #### sudo pip3 install google-cloud
 #### sudo pip3 install google-cloud-bigquery
 
+## Dashboard Output
+### Annual Trip Summary Visualization
+<img width="920" alt="Screen Shot 2023-07-08 at 1 33 16 AM" src="https://github.com/suchitranair191/NYC_Uber_Data_Analysis_GCP_Mage/assets/22407566/1ad3ad47-edc9-4c31-a71a-456ebe18b3e3">
+
+
+### Geo Location Visualization
+<img width="770" alt="Geo_location_analysis" src="https://github.com/suchitranair191/NYC_Uber_Data_Analysis_GCP_Mage/assets/22407566/6db782f1-a36b-4c2b-b551-916249ca49d4">
+
 
 
